@@ -4,13 +4,21 @@
 
 ### Good Points
 •) Developed using Flask framework, which is lightweight, flexible, and widely used for web applications.
+
 •) Code is structured with modular classes (SocialMedia and Post), ensuring separation of responsibilities.
+
 •) Supports essential features: user registration, login/logout, post creation, deletion, upvote, and downvote.
+
 •) Implements session management for handling authenticated users securely within the app.
+
 •) JSON file-based persistence keeps the application simple and easy to understand for beginners and demonstrations.
+
 •) Readable and beginner-friendly code design with docstrings explaining purpose of methods.
+
 •) Integration of HTML templates (index, login, register, my_posts) provides dynamic rendering of content.
+
 •) Demonstrates Flask routing and request handling with both GET and POST methods.
+
 •) Uses unique post IDs and manages user-specific posts efficiently within JSON structure.
 
 ### Functionality & Working
