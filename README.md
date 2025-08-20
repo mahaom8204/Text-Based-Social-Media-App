@@ -20,7 +20,7 @@
   
   •) Uses unique post IDs and manages user-specific posts efficiently within JSON structure.
 
-  
+##
 
 ### B. Functionality & Working
   •) Users can register with a unique username and password. Registration checks prevent duplicate usernames.
