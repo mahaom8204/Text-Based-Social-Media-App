@@ -1,0 +1,40 @@
+{
+    "userData": [
+        {
+            "username": "om",
+            "password": "1234",
+            "posts": [
+                {
+                    "id": 1,
+                    "post": "Hello this is my first post",
+                    "likes": 2,
+                    "dislikes": 0,
+                    "author": "om"
+                }
+            ]
+        },
+        {
+            "username": "sidd",
+            "password": "2345",
+            "posts": [
+                {
+                    "id": 2,
+                    "post": "this is sidd",
+                    "likes": 1,
+                    "dislikes": 0,
+                    "author": "sidd"
+                }
+            ]
+        },
+        {
+            "username": "Ayush",
+            "password": "3456",
+            "posts": []
+        },
+        {
+            "username": "Ruchir",
+            "password": "4568",
+            "posts": []
+        }
+    ]
+}
