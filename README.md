@@ -1,8 +1,7 @@
 # Text Based Scoial Media App
 
-## Flask Social Media Application - Detailed Good Points & Functionality
 
-### Good Points
+### A. Main Points
   •) Developed using Flask framework, which is lightweight, flexible, and widely used for web applications.
   
   •) Code is structured with modular classes (SocialMedia and Post), ensuring separation of responsibilities.
@@ -21,7 +20,9 @@
   
   •) Uses unique post IDs and manages user-specific posts efficiently within JSON structure.
 
-### Functionality & Working
+  
+
+### B. Functionality & Working
   •) Users can register with a unique username and password. Registration checks prevent duplicate usernames.
   
   •) Users can log in with valid credentials; session stores the username to track login state.
